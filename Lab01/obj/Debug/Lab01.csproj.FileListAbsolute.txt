@@ -1,0 +1,11 @@
+D:\JSP_PROJECT\DIP_LAB\Lab01\Lab01\bin\Debug\Lab01.exe.config
+D:\JSP_PROJECT\DIP_LAB\Lab01\Lab01\bin\Debug\Lab01.exe
+D:\JSP_PROJECT\DIP_LAB\Lab01\Lab01\bin\Debug\Lab01.pdb
+D:\JSP_PROJECT\DIP_LAB\Lab01\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
+D:\JSP_PROJECT\DIP_LAB\Lab01\Lab01\obj\Debug\Lab01.Form1.resources
+D:\JSP_PROJECT\DIP_LAB\Lab01\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+D:\JSP_PROJECT\DIP_LAB\Lab01\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+D:\JSP_PROJECT\DIP_LAB\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+D:\JSP_PROJECT\DIP_LAB\Lab01\Lab01\obj\Debug\Lab01.csproj.CopyComplete
+D:\JSP_PROJECT\DIP_LAB\Lab01\Lab01\obj\Debug\Lab01.exe
+D:\JSP_PROJECT\DIP_LAB\Lab01\Lab01\obj\Debug\Lab01.pdb
